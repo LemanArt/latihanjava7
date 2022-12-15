@@ -3,10 +3,16 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/latihanjava/Relasi/src/Realization/Mobil.java</file>
-            <file>file:/D:/latihanjava/Relasi/src/Realization/Engine.java</file>
-            <file>file:/D:/latihanjava/Relasi/src/Realization/MainProgram.java</file>
-            <file>file:/D:/latihanjava/Relasi/src/Realization/IEngine.java</file>
+            <file>file:/D:/latihanjava/latihanjava7/Relasi/src/TUGAS/mainAgregasi.java</file>
+            <file>file:/D:/latihanjava/latihanjava7/Relasi/src/TUGAS/MotorAgregasi.java</file>
+            <file>file:/D:/latihanjava/latihanjava7/Relasi/src/TUGAS/MotorAsosiasi.java</file>
+            <file>file:/D:/latihanjava/latihanjava7/Relasi/src/TUGAS/MotorDependensi.java</file>
+            <file>file:/D:/latihanjava/latihanjava7/Relasi/src/TUGAS/mainKomposisi.java</file>
+            <file>file:/D:/latihanjava/latihanjava7/Relasi/src/TUGAS/IMesin.java</file>
+            <file>file:/D:/latihanjava/latihanjava7/Relasi/src/TUGAS/Mesin.java</file>
+            <file>file:/D:/latihanjava/latihanjava7/Relasi/src/TUGAS/mainDependensi.java</file>
+            <file>file:/D:/latihanjava/latihanjava7/Relasi/src/TUGAS/mainAsosisasi.java</file>
+            <file>file:/D:/latihanjava/latihanjava7/Relasi/src/TUGAS/MotorKomposisi.java</file>
         </group>
     </open-files>
 </project-private>

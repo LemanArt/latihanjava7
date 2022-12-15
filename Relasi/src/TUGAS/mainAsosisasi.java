@@ -13,7 +13,7 @@ public class mainAsosisasi {
         // Membuat object oporation system
         Mesin oS = new Mesin();
         // Membuat object Motor
-        MotorAgregasi beat = new MotorAgregasi(oS);
+        MotorAsosiasi beat = new MotorAsosiasi(oS);
         beat.setMerk("Honda Beat");
         beat.setCC(125);
         beat.setWarna("Biru Putih");
